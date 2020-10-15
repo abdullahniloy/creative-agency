@@ -1,0 +1,87 @@
+.img{
+    height: 30px;
+}
+.btnColor:hover{
+    color:yellow;
+}
+.backGround{
+    background-color:#fbd062;
+}
+.col-md-2{
+    margin-left: 22px;
+}
+.servicesColor{
+    color:#91c076;
+    
+}
+.services{
+    text-align: center;
+}
+
+.col-md-3{
+    margin-left: 40px;
+}
+.work{
+    color: #78af58;
+}
+.work2{
+    color:#ffffff;
+}
+
+.worksBackGround{
+    text-align: center;
+    background-color: #111430;
+    
+}
+.cro{
+    margin-bottom:30px;
+}
+
+.CaroImg{
+    height: 320px;
+    width: 270px;
+}
+
+.client{
+    color:#53567c;
+}
+.feedback{
+    color:#9cc684;
+}
+.Center{
+    text-align: center;
+}
+
+.size{
+    width: 100%;
+    height: 50px;
+}
+.largeSize{
+    width: 100%;
+    height: 170px;
+}
+.col-md-6{
+    background-color: #fbd062;
+    
+}
+.marginTop{
+    margin-top:40px;
+
+}
+.col-md-5{
+    margin-top:40px;
+   
+}
+.backColor{
+    background-color: #fbd062;
+    
+}
+.btnColor{
+  background-color:#111430;
+  border-radius: 4px;
+  color: white;
+  margin-bottom: 10px;
+}
+.footer{
+    margin-left: 450px;
+}
